@@ -1,0 +1,2461 @@
+# Nmap 7.95 scan initiated Wed May 28 20:34:46 2025 as: /usr/lib/nmap/nmap -Pn -p 80,2222,8080,3000,8086,8010,8000,1025,8082,8334,8333,5000,85,9191,70,110,2223,82,81,8001,50000,8083,8081,8888,84,6004,50001,1024,8084,83,86,60001,8090,8200,91,2001,9000,90,2000,88,89,111,6666,5001,8182,9015,8002,8006,11000,6003,10000,6002,6001,9200,60010,50050,1099,9014,9008,9010,9002,9009,9012,9016,9006,9005,9001,9018,8089 -oN nmap_results.txt 78.134.4.0/24
+Nmap scan report for 78.134.4.0
+Host is up (2.6s latency).
+Not shown: 68 closed tcp ports (reset)
+PORT     STATE    SERVICE
+8080/tcp filtered http-proxy
+
+Nmap scan report for 78.134.4.1
+Host is up (0.10s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.2
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.3
+Host is up.
+All 69 scanned ports on 78.134.4.3 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.4
+Host is up (0.10s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8081/tcp open   blackice-icecap
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.5
+Host is up.
+All 69 scanned ports on 78.134.4.5 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.6
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.6 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.7
+Host is up.
+All 69 scanned ports on 78.134.4.7 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.8
+Host is up.
+All 69 scanned ports on 78.134.4.8 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.9
+Host is up.
+All 69 scanned ports on 78.134.4.9 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.10
+Host is up.
+All 69 scanned ports on 78.134.4.10 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.11
+Host is up (0.12s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.12
+Host is up.
+All 69 scanned ports on 78.134.4.12 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.13
+Host is up.
+All 69 scanned ports on 78.134.4.13 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.14
+Host is up (0.10s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.15
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.16
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.17
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.18
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.19
+Host is up (0.10s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8080/tcp open   http-proxy
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.20
+Host is up.
+All 69 scanned ports on 78.134.4.20 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.21
+Host is up (0.11s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+8000/tcp open   http-alt
+8080/tcp open   http-proxy
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.22
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.22 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.23
+Host is up (0.11s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.24
+Host is up (0.13s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 78.134.4.25
+Host is up.
+All 69 scanned ports on 78.134.4.25 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.26
+Host is up.
+All 69 scanned ports on 78.134.4.26 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.27
+Host is up (0.10s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8080/tcp open  http-proxy
+9000/tcp open  cslistener
+
+Nmap scan report for 78.134.4.28
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.28 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.29
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.30
+Host is up.
+All 69 scanned ports on 78.134.4.30 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.31
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.32
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.32 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.33
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.34
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.34 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.35
+Host is up.
+All 69 scanned ports on 78.134.4.35 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.36
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.36 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.37
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.37 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.38
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+84/tcp   open  ctf
+8000/tcp open  http-alt
+
+Nmap scan report for 78.134.4.39
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.39 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.40
+Host is up.
+All 69 scanned ports on 78.134.4.40 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.41
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.41 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.42
+Host is up (0.100s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+8001/tcp open   vcom-tunnel
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.43
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.44
+Host is up (0.11s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.45
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.45 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.46
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.47
+Host is up (0.11s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+81/tcp   closed hosts2-ns
+8000/tcp open   http-alt
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.48
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.49
+Host is up.
+All 69 scanned ports on 78.134.4.49 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.50
+Host is up (2.7s latency).
+Not shown: 67 closed tcp ports (reset)
+PORT     STATE    SERVICE
+88/tcp   filtered kerberos-sec
+8000/tcp filtered http-alt
+
+Nmap scan report for 78.134.4.51
+Host is up (2.5s latency).
+Not shown: 67 closed tcp ports (reset)
+PORT     STATE SERVICE
+8082/tcp open  blackice-alerts
+8083/tcp open  us-srv
+
+Nmap scan report for 78.134.4.52
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.53
+Host is up (0.099s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+5000/tcp open   upnp
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.54
+Host is up (0.13s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.55
+Host is up (0.11s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+2222/tcp open   EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.56
+Host is up.
+All 69 scanned ports on 78.134.4.56 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.57
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.57 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.58
+Host is up (0.10s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.59
+Host is up (2.5s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 78.134.4.60
+Host is up (2.5s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   closed http
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.61
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.61 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.62
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.62 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.63
+Host is up (0.10s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.64
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.65
+Host is up (0.12s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.66
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.66 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.67
+Host is up.
+All 69 scanned ports on 78.134.4.67 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.68
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.69
+Host is up (0.092s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.70
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.70 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.71
+Host is up (0.11s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.72
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.73
+Host is up.
+All 69 scanned ports on 78.134.4.73 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.74
+Host is up (0.10s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8000/tcp open   http-alt
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.75
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.75 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.76
+Host is up.
+All 69 scanned ports on 78.134.4.76 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.77
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.78
+Host is up.
+All 69 scanned ports on 78.134.4.78 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.79
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.80
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.80 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.81
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.82
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.83
+Host is up.
+All 69 scanned ports on 78.134.4.83 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.84
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.85
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.86
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.86 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.87
+Host is up.
+All 69 scanned ports on 78.134.4.87 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.88
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8080/tcp open   http-proxy
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.89
+Host is up (0.10s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.90
+Host is up.
+All 69 scanned ports on 78.134.4.90 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.91
+Host is up (0.100s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.92
+Host is up.
+All 69 scanned ports on 78.134.4.92 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.93
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.94
+Host is up.
+All 69 scanned ports on 78.134.4.94 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.95
+Host is up.
+All 69 scanned ports on 78.134.4.95 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.96
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.96 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.97
+Host is up (0.10s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.98
+Host is up (0.11s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8086/tcp closed d-s-n
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.99
+Host is up (0.11s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.100
+Host is up.
+All 69 scanned ports on 78.134.4.100 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.101
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.102
+Host is up (2.6s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   closed http
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.103
+Host is up.
+All 69 scanned ports on 78.134.4.103 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.104
+Host is up (0.10s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.105
+Host is up (0.098s latency).
+Not shown: 61 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+8000/tcp open   http-alt
+8200/tcp closed trivnet1
+9001/tcp closed tor-orport
+9009/tcp closed pichat
+9012/tcp closed unknown
+9016/tcp closed unknown
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 78.134.4.106
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.107
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.108
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.108 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.109
+Host is up (0.10s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.110
+Host is up (0.10s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+1024/tcp open   kdm
+6001/tcp open   X11:1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.111
+Host is up.
+All 69 scanned ports on 78.134.4.111 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.112
+Host is up (2.5s latency).
+Not shown: 68 closed tcp ports (reset)
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for 78.134.4.113
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.113 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.114
+Host is up (0.100s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8080/tcp open  http-proxy
+
+Nmap scan report for 78.134.4.115
+Host is up.
+All 69 scanned ports on 78.134.4.115 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.116
+Host is up (0.11s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.117
+Host is up.
+All 69 scanned ports on 78.134.4.117 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.118
+Host is up.
+All 69 scanned ports on 78.134.4.118 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.119
+Host is up.
+All 69 scanned ports on 78.134.4.119 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.120
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.120 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.121
+Host is up.
+All 69 scanned ports on 78.134.4.121 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.122
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.123
+Host is up (0.12s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.124
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.125
+Host is up (2.6s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   closed http
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.126
+Host is up (2.5s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 78.134.4.127
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.128
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.128 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.129
+Host is up (0.098s latency).
+Not shown: 62 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+2222/tcp closed EtherNetIP-1
+5000/tcp open   upnp
+5001/tcp open   commplex-link
+8080/tcp open   http-proxy
+8086/tcp closed d-s-n
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.130
+Host is up (0.11s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+2222/tcp closed EtherNetIP-1
+9000/tcp open   cslistener
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.131
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.132
+Host is up (0.11s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+8000/tcp open  http-alt
+9000/tcp open  cslistener
+
+Nmap scan report for 78.134.4.133
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.134
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.135
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.136
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.137
+Host is up.
+All 69 scanned ports on 78.134.4.137 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.138
+Host is up.
+All 69 scanned ports on 78.134.4.138 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.139
+Host is up (2.5s latency).
+Not shown: 68 closed tcp ports (reset)
+PORT   STATE SERVICE
+90/tcp open  dnsix
+
+Nmap scan report for 78.134.4.140
+Host is up (0.097s latency).
+Not shown: 64 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8086/tcp closed d-s-n
+8089/tcp open   unknown
+8200/tcp closed trivnet1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.141
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.142
+Host is up (0.11s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8888/tcp open   sun-answerbook
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.143
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.144
+Host is up (21s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8086/tcp closed d-s-n
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.145
+Host is up.
+All 69 scanned ports on 78.134.4.145 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.146
+Host is up.
+All 69 scanned ports on 78.134.4.146 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.147
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.148
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.149
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.149 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.150
+Host is up (2.6s latency).
+Not shown: 65 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+8080/tcp open  http-proxy
+8083/tcp open  us-srv
+9000/tcp open  cslistener
+
+Nmap scan report for 78.134.4.151
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.151 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.152
+Host is up (2.5s latency).
+Not shown: 66 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+8000/tcp open  http-alt
+8081/tcp open  blackice-icecap
+
+Nmap scan report for 78.134.4.153
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.153 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.154
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.155
+Host is up (2.9s latency).
+Not shown: 56 closed tcp ports (reset)
+PORT    STATE    SERVICE
+80/tcp  filtered http
+81/tcp  filtered hosts2-ns
+82/tcp  filtered xfer
+83/tcp  filtered mit-ml-dev
+84/tcp  filtered ctf
+85/tcp  filtered mit-ml-dev
+86/tcp  filtered mfcobol
+88/tcp  filtered kerberos-sec
+89/tcp  filtered su-mit-tg
+90/tcp  filtered dnsix
+91/tcp  filtered mit-dov
+110/tcp filtered pop3
+111/tcp filtered rpcbind
+
+Nmap scan report for 78.134.4.156
+Host is up (0.11s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8080/tcp open   http-proxy
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.157
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.157 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.158
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.158 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.159
+Host is up (21s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8086/tcp closed d-s-n
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.160
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.160 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.161
+Host is up (21s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8086/tcp closed d-s-n
+8200/tcp closed trivnet1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.162
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.163
+Host is up.
+All 69 scanned ports on 78.134.4.163 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.164
+Host is up (0.094s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.165
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.166
+Host is up.
+All 69 scanned ports on 78.134.4.166 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.167
+Host is up (0.10s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8086/tcp closed d-s-n
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.168
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.168 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.169
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.169 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.170
+Host is up (0.10s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8086/tcp closed d-s-n
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.171
+Host is up (0.11s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+9000/tcp open  cslistener
+
+Nmap scan report for 78.134.4.172
+Host is up.
+All 69 scanned ports on 78.134.4.172 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.173
+Host is up (0.11s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.174
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.174 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.175
+Host is up (0.11s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.176
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.177
+Host is up.
+All 69 scanned ports on 78.134.4.177 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.178
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.179
+Host is up (0.10s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+2222/tcp closed EtherNetIP-1
+8086/tcp closed d-s-n
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.180
+Host is up (2.5s latency).
+Not shown: 68 closed tcp ports (reset)
+PORT     STATE    SERVICE
+2000/tcp filtered cisco-sccp
+
+Nmap scan report for 78.134.4.181
+Host is up (2.5s latency).
+Not shown: 68 closed tcp ports (reset)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+
+Nmap scan report for 78.134.4.182
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.182 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.183
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.184
+Host is up.
+All 69 scanned ports on 78.134.4.184 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.185
+Host is up.
+All 69 scanned ports on 78.134.4.185 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.186
+Host is up (0.10s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.187
+Host is up (0.14s latency).
+Not shown: 60 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+81/tcp    open   hosts2-ns
+82/tcp    open   xfer
+83/tcp    open   mit-ml-dev
+2222/tcp  closed EtherNetIP-1
+8001/tcp  open   vcom-tunnel
+8002/tcp  open   teradataordbms
+8086/tcp  closed d-s-n
+9012/tcp  closed unknown
+50000/tcp open   ibm-db2
+
+Nmap scan report for 78.134.4.188
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.189
+Host is up.
+All 69 scanned ports on 78.134.4.189 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.190
+Host is up (21s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8086/tcp closed d-s-n
+8200/tcp closed trivnet1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.191
+Host is up.
+All 69 scanned ports on 78.134.4.191 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.192
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.193
+Host is up.
+All 69 scanned ports on 78.134.4.193 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.194
+Host is up (2.6s latency).
+Not shown: 68 closed tcp ports (reset)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+
+Nmap scan report for 78.134.4.195
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.195 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.196
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.196 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.197
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.198
+Host is up.
+All 69 scanned ports on 78.134.4.198 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.199
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.200
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.201
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.202
+Host is up.
+All 69 scanned ports on 78.134.4.202 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.203
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.204
+Host is up (0.11s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+8000/tcp open   http-alt
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.205
+Host is up (0.28s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+2222/tcp closed EtherNetIP-1
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.206
+Host is up.
+All 69 scanned ports on 78.134.4.206 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.207
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8089/tcp open   unknown
+
+Nmap scan report for 78.134.4.208
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.208 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.209
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.209 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.210
+Host is up.
+All 69 scanned ports on 78.134.4.210 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.211
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.212
+Host is up.
+All 69 scanned ports on 78.134.4.212 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.213
+Host is up (0.11s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+
+Nmap scan report for 78.134.4.214
+Host is up (0.10s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.215
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.215 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.216
+Host is up (0.10s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+2222/tcp closed EtherNetIP-1
+8000/tcp open   http-alt
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.217
+Host is up (2.5s latency).
+Not shown: 62 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8000/tcp open   http-alt
+8001/tcp closed vcom-tunnel
+8002/tcp closed teradataordbms
+8006/tcp closed wpl-analytics
+8010/tcp closed xmpp
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.218
+Host is up (0.11s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.219
+Host is up (0.10s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.220
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.220 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.221
+Host is up (2.5s latency).
+Not shown: 68 closed tcp ports (reset)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+
+Nmap scan report for 78.134.4.222
+Host is up.
+All 69 scanned ports on 78.134.4.222 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.223
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.223 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.224
+Host is up.
+All 69 scanned ports on 78.134.4.224 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.225
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.226
+Host is up (2.6s latency).
+Not shown: 68 closed tcp ports (reset)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+
+Nmap scan report for 78.134.4.227
+Host is up.
+All 69 scanned ports on 78.134.4.227 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.228
+Host is up (2.5s latency).
+All 69 scanned ports on 78.134.4.228 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.229
+Host is up.
+All 69 scanned ports on 78.134.4.229 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.230
+Host is up.
+All 69 scanned ports on 78.134.4.230 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.231
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.232
+Host is up (0.11s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8000/tcp open   http-alt
+8080/tcp open   http-proxy
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.233
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.233 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.234
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.235
+Host is up.
+All 69 scanned ports on 78.134.4.235 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.236
+Host is up (0.10s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.237
+Host is up (2.5s latency).
+Not shown: 67 closed tcp ports (reset)
+PORT     STATE    SERVICE
+80/tcp   filtered http
+8080/tcp open     http-proxy
+
+Nmap scan report for 78.134.4.238
+Host is up (0.100s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.239
+Host is up.
+All 69 scanned ports on 78.134.4.239 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.240
+Host is up (0.10s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+5000/tcp open   upnp
+8082/tcp open   blackice-alerts
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.241
+Host is up.
+All 69 scanned ports on 78.134.4.241 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.242
+Host is up.
+All 69 scanned ports on 78.134.4.242 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.243
+Host is up (0.10s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+8089/tcp open  unknown
+
+Nmap scan report for 78.134.4.244
+Host is up (2.5s latency).
+Not shown: 68 closed tcp ports (reset)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+
+Nmap scan report for 78.134.4.245
+Host is up (2.6s latency).
+All 69 scanned ports on 78.134.4.245 are in ignored states.
+Not shown: 69 closed tcp ports (reset)
+
+Nmap scan report for 78.134.4.246
+Host is up (0.11s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.247
+Host is up.
+All 69 scanned ports on 78.134.4.247 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.248
+Host is up (2.6s latency).
+Not shown: 67 closed tcp ports (reset)
+PORT     STATE    SERVICE
+8001/tcp filtered vcom-tunnel
+8002/tcp filtered teradataordbms
+
+Nmap scan report for 78.134.4.249
+Host is up (2.5s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 78.134.4.250
+Host is up (0.11s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2222/tcp closed EtherNetIP-1
+8089/tcp open   unknown
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.251
+Host is up.
+All 69 scanned ports on 78.134.4.251 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.252
+Host is up.
+All 69 scanned ports on 78.134.4.252 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.253
+Host is up.
+All 69 scanned ports on 78.134.4.253 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 78.134.4.254
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+9012/tcp closed unknown
+
+Nmap scan report for 78.134.4.255
+Host is up (2.5s latency).
+Not shown: 63 closed tcp ports (reset)
+PORT     STATE    SERVICE
+8000/tcp open     http-alt
+8001/tcp filtered vcom-tunnel
+8006/tcp filtered wpl-analytics
+8080/tcp open     http-proxy
+8089/tcp open     unknown
+9010/tcp open     sdr
+
+# Nmap done at Wed May 28 21:21:00 2025 -- 256 IP addresses (256 hosts up) scanned in 2774.68 seconds
+ered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.179
+Host is up (0.10s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.180
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.181
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.182
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.183
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.184
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.185
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.186
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.187
+Host is up (0.21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   open     hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp closed   blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.188
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.189
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.190
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.191
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.192
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.193
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.194
+Host is up (2.6s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.195
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.196
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.197
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.198
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.199
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.200
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.201
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.202
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.203
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.204
+Host is up (0.11s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   closed   hosts2-ns
+554/tcp  open     rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.205
+Host is up (0.10s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.206
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.207
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.208
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.209
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.210
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.211
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.212
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.213
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.214
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.215
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.216
+Host is up (0.11s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   closed   hosts2-ns
+554/tcp  open     rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.217
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.218
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.219
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.220
+Host is up (2.6s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.221
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.222
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.223
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.224
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.225
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.226
+Host is up (2.6s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.227
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.228
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.229
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.230
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.231
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.232
+Host is up (0.11s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp open     http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.233
+Host is up (2.6s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.234
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.235
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.236
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.237
+Host is up (2.3s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  closed   rtsp
+8080/tcp open     http-proxy
+8081/tcp closed   blackice-icecap
+8888/tcp closed   sun-answerbook
+
+Nmap scan report for 78.134.4.238
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.239
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.240
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.241
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.242
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.243
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.244
+Host is up (2.5s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.245
+Host is up (2.6s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.246
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.247
+Host is up (21s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.248
+Host is up (2.6s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  closed rtsp
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+Nmap scan report for 78.134.4.249
+Host is up (2.5s latency).
+
+PORT     STATE    SERVICE
+80/tcp   closed   http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.250
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.251
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.252
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.253
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.254
+Host is up.
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+554/tcp  filtered rtsp
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8888/tcp filtered sun-answerbook
+
+Nmap scan report for 78.134.4.255
+Host is up (0.100s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+554/tcp  open   rtsp
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+8888/tcp closed sun-answerbook
+
+# Nmap done at Wed May 28 20:54:21 2025 -- 256 IP addresses (256 hosts up) scanned in 698.88 seconds
